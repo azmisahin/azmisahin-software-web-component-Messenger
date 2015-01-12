@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "as.Messenger", "as.Messenger\as.Messenger.csproj", "{03CE9A1E-A123-4E66-82C8-FBCE38ADB0D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "as.Messenger.Tests", "as.Messenger.Tests\as.Messenger.Tests.csproj", "{3E8ED412-FA82-4EBC-8D4D-1D2810BBCE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CE9A1E-A123-4E66-82C8-FBCE38ADB0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CE9A1E-A123-4E66-82C8-FBCE38ADB0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CE9A1E-A123-4E66-82C8-FBCE38ADB0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CE9A1E-A123-4E66-82C8-FBCE38ADB0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8ED412-FA82-4EBC-8D4D-1D2810BBCE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8ED412-FA82-4EBC-8D4D-1D2810BBCE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8ED412-FA82-4EBC-8D4D-1D2810BBCE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8ED412-FA82-4EBC-8D4D-1D2810BBCE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
